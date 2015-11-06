@@ -15,7 +15,7 @@ function commit() {
       // and parents.  It assumes sane defaults for these.
       repo.saveAs("commit", {
         author: {
-          name: "nobori",
+          name: "rznobori",
           email: "sp398ga9@yahoo.co.jp"
         },
         tree: treeHash,
