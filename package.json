@@ -8,15 +8,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/creationix/js-git.git"
+    "url": "git://github.com/rznobori/js-git.git"
   },
   "author": {
-    "name": "Tim Caswell",
-    "email": "tim@creationix.com"
+    "name": "rznobori",
+    "email": "sp398ga9@yahoo.co.jp"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/creationix/js-git/issues"
+    "url": "https://github.com/rznobori/js-git/issues"
   },
   "scripts": {
     "test": "ls test/test-* | xargs -n1 node"
@@ -27,7 +27,7 @@
     "git-sha1": "^0.1.2",
     "pako": "^0.2.5"
   },
-  "homepage": "https://github.com/creationix/js-git",
+  "homepage": "https://github.com/rznobori/js-git",
   "_id": "js-git@0.7.7",
   "_shasum": "c9085bfdf17ca9dc1d97936daddce5e55af3ced3",
   "_from": "js-git@*",
