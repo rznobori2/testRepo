@@ -1,2 +1,5 @@
 Gitオブジェクトの中身
 http://qiita.com/nkshigeru/items/eb2b6f758c2707757738
+test
+line
+.1
