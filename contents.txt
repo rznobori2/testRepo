@@ -1,1 +1,1 @@
-[object ArrayBuffer]
+Hello World
