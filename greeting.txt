@@ -4,3 +4,4 @@ function remoteRepoPull() {
 	var element_author = document.getElementById("commit_author").value || "tester";
 	var element_email = document.getElementById("commit_email").value || "temp@xxx.com";
 
+// ************** remoteRepoClone ****************
