@@ -1,8 +1,1 @@
-function remoteRepoPull() {
-	
-	var element_msg = document.getElementById("commit_msg").value || "No input commit message.";
-	var element_author = document.getElementById("commit_author").value || "tester";
-	var element_email = document.getElementById("commit_email").value || "temp@xxx.com";
-
-// ************** remoteRepoClone ****************
-あああ
+１
